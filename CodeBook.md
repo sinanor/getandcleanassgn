@@ -36,8 +36,8 @@ This column represent type of activity and can be one of below
 - "SITTING"
 - "STANDING"
 - "WALKING"           
--"WALKING_DOWNSTAIRS" 
--"WALKING_UPSTAIRS"  
+- "WALKING_DOWNSTAIRS" 
+- "WALKING_UPSTAIRS"  
 
 ## Measurement
 
